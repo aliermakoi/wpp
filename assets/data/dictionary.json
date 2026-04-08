@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "word": "yɛ̈n",
+    "definition": "we; us (first person plural pronoun)",
+    "examples": "Yɛ̈n acï ke raan. — We are people.",
+    "partOfSpeech": "pronoun",
+    "synonyms": "",
+    "dialects": "Bor",
+    "searchKey": "yen",
+    "rawEntry": "yɛ̈n: we; us"
+  },
+  {
+    "id": 2,
+    "word": "cïï",
+    "definition": "to go; to move from one place to another",
+    "examples": "Anɔŋ cïï tɔ̈k. — The child went home.",
+    "partOfSpeech": "verb",
+    "synonyms": "",
+    "dialects": "Rek",
+    "searchKey": "cii",
+    "rawEntry": "cïï: to go"
+  },
+  {
+    "id": 3,
+    "word": "ŋɔ̈k",
+    "definition": "cow",
+    "examples": "Ŋɔ̈k acï bɛ̈n. — The cow has come.",
+    "partOfSpeech": "noun",
+    "synonyms": "",
+    "dialects": "Agar",
+    "searchKey": "ngok",
+    "rawEntry": "ŋɔ̈k: cow"
+  }
+]
